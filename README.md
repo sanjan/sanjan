@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi, I'm Sanjan 👋🏽 🤓 💻
+
+I'm currently a Site Reliability Engineer @ Salesforce ☁️
+And I'm passionate 😍 about automating monitoring systems.
+In my coding I mostly use Python 🐍 (just because I don't have to worry about missed semi-colons!)
