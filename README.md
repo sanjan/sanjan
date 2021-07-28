@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hey, I'm Sanjan 👋🏽 🤓 💻
 
-- I'm a Site Reliability Engineer [@Salesforce](https://github.com/salesforce)☁️ formerly [@SAP](https://github.com/SAP)
+- I'm a Site Reliability Engineer [@Salesforce](https://github.com/salesforce)☁️. formerly [@SAP](https://github.com/SAP)
 - And I'm passionate 😍 about automating monitoring systems.
-- In my coding I mostly use Python 🐍 (just because I don't have to worry about missed semi-colons!)
+- I mostly use Python 🐍 (just because I don't have to worry about missed semi-colons!) but work push me to use Java ☕
 - And for some reason I have 3 stackoverflow accounts 😬
