@@ -13,9 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hey, I'm Sanjan 👋🏽 🤓 💻
+Hey there, I’m Sanjan 👋🏽
 
-- I'm a Site Reliability Engineer [@Salesforce](https://github.com/salesforce)☁️. formerly [@SAP](https://github.com/SAP)
-- And I'm passionate 😍 about automating monitoring systems.
-- I mostly use Python 🐍 (just because I don't have to worry about missed semi-colons!) but work push me to use Java ☕
-- And for some reason I have 3 stackoverflow accounts 😬
+I’m a Site Reliability Engineer at Salesforce [@Salesforce](https://github.com/salesforce) and previously at SAP [@SAP](https://github.com/SAP).  I’m passionate about automating monitoring systems.
+
+I primarily use Python 🐍 because it eliminates the hassle of missing semi-colons! However, my work often pushes me to use Java ☕.
+
+Interestingly, I have three Stack Overflow accounts 😬. Here are the links:
+
+- http://stackoverflow.com/users/2439779/sanjan
+- http://stackoverflow.com/users/569321/sanjan-grero
+- http://stackoverflow.com/users/2168001/sanjan
